@@ -1,7 +1,10 @@
 # correlations
 A script to display a correlation table with pvalues and significance :
+
 \* -> 10% significance
+
 \** -> 5% significance
+
 \*** ->1% significance
 
 
